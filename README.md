@@ -1,7 +1,9 @@
 #   Flask: Patio de juegos
 
 ## Contenido
-    Proyecto Flask que se practica el renderizado de plantillas html, en donde se les pasa datos o argumentos a traves del servidor flask para generar contenido dinamico, que pueden ser modificadas a traves de las rutas y tambien implementando logica python en el motor de plantillas ninja.
+~~~
+    Proyecto Flask que se practica el renderizado de plantillas html, en donde se   les pasa datos o argumentos a traves del servidor flask para generar contenido   dinamico, que pueden ser modificadas a traves de las rutas y tambien   implementando logica python en el motor de plantillas Jinja.  
+~~~
 
      Escribir las siguientes rutas: 
 

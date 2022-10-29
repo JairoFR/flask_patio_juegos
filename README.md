@@ -15,6 +15,8 @@
     -  http://127.0.0.1:5000/play/(x)/(color) ==> Muestra x cantidad de  cajas 
       segun el color elegido (red, green etc...)
 
+![](2022-10-29 02-42-08.gif)
+
 ## **Instalacion y configuracion**
 
 #### Instalar un entorno virtual con  pipenv en forma global (omitir si ya está instalado):      

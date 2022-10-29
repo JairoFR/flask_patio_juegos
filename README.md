@@ -15,7 +15,7 @@
     -  http://127.0.0.1:5000/play/(x)/(color) ==> Muestra x cantidad de  cajas 
       segun el color elegido (red, green etc...)
 
-![](2022-10-29 02-42-08.gif)
+![](image.gif)
 
 ## **Instalacion y configuracion**
 

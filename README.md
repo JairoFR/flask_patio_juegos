@@ -13,9 +13,13 @@
     -  http://127.0.0.1:5000/play ==> Muestra 3 cajas azules
     -  http://127.0.0.1:5000/play/(x) ==> Muestra x cantidad de  cajas azules
     -  http://127.0.0.1:5000/play/(x)/(color) ==> Muestra x cantidad de  cajas 
-      segun el color elegido (red, green etc...)
+      segun el color elegido (red, green etc...)  
+                                                                                                 
 
-![](image.gif)
+
+
+![Demostracion](image.gif)  
+
 
 ## **Instalacion y configuracion**
 
